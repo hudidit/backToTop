@@ -6,7 +6,7 @@ back-to-top button [ JavaScript Plugin ]
 # 怎么用
 （1）下载backToTop.min.js，放在你的模板/主题的目录下；
 
-（2）在你的模板/主题里对应网页页脚的那个文件里，在</body>标签前引用backToTop.min.js，最终应该是这样的：
+（2）在你的模板/主题里对应网页页脚的那个文件里，在`</body>`标签前引用backToTop.min.js，最终应该是这样的：
 
 ```html
 <!-- 把...替换成你的backToTop.min.js所在的目录 -->
