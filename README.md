@@ -13,7 +13,7 @@ back-to-top button [ JavaScript Plugin ]
     <script src=".../backToTop.min.js"></script>
 </body>
 ```
-你可以选择是否平滑滚动，默认是平滑的。喜欢摆弄代码的朋友，可以对 backToTop.js（或 backToTop.min.js，取决于你引用的是哪一个）末尾的 backToTop() 做如下设置：
+你可以选择是否平滑滚动，默认是平滑的。可以对 backToTop.js（或 backToTop.min.js，取决于你引用的是哪一个）末尾的 backToTop() 做如下设置：
 ```javascript
 backToTop({
   // 不想要平滑的滚动，就像下面这样设置为 false
